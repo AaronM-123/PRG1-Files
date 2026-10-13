@@ -17,7 +17,7 @@ screen, but what ends up in the file. Predict both, every time.
 
 ## The activities
 
-### Morning: reading from files
+### Session 1: reading from files
 
 | Folder | Focus |
 |---|---|
@@ -25,7 +25,7 @@ screen, but what ends up in the file. Predict both, every time.
 | `activity-2-username-checker/` | A working validator: stray whitespace, and a log that grows |
 | `activity-3-lines-into-data/` | Splitting a line into fields and turning text into numbers |
 
-### Afternoon: writing reports
+### Session 2: writing reports
 
 | Folder | Focus |
 |---|---|
@@ -54,8 +54,8 @@ Activity 6's copy is slightly untidy. That is part of the activity.
 Work in pairs. One drives, the other reads and questions, then swap at each new
 activity.
 
-You are **not** expected to finish everything. Activity 3 in the morning and
-activity 5 in the afternoon are the two that matter most. Two done properly
+You are **not** expected to finish everything. Activity 3 in session one and
+activity two in session two or the afternoon are the two that matter most. Two done properly
 beats six rushed.
 
 ## Running a file
@@ -70,7 +70,3 @@ python reading_a_file.py
 
 If `python` is not recognised, use `python3` instead.
 
-## Reference
-
-`reference/` holds supporting material. Do not open anything in there until
-after the class discussion it belongs to.
